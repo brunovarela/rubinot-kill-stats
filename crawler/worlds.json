@@ -1,0 +1,16 @@
+[
+  { "external_id": 1,  "name": "Elysian" },
+  { "external_id": 9,  "name": "Lunarian" },
+  { "external_id": 10, "name": "Spectrum" },
+  { "external_id": 11, "name": "Auroria" },
+  { "external_id": 12, "name": "Solarian" },
+  { "external_id": 15, "name": "Belaria" },
+  { "external_id": 16, "name": "Vesperia" },
+  { "external_id": 17, "name": "Bellum" },
+  { "external_id": 18, "name": "Mystian" },
+  { "external_id": 21, "name": "Tenebrium" },
+  { "external_id": 22, "name": "Serenian" },
+  { "external_id": 23, "name": "Etherian" },
+  { "external_id": 24, "name": "Halorian" },
+  { "external_id": 25, "name": "Divinian" }
+]
